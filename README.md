@@ -43,10 +43,27 @@ Follow these steps to get the project up and running on your local machine.
     # Install Django into your virtual environment
     pip install django
     ```
+3. **Navigate to Project Directory**
+   Move to the project directory where Django project files are located:
+   ``` bash
+   # For example:
+   cd firstproject
+   ```
+4. **Create a New Django App**  
+   Create a new Django app named 'newapp':
+   ```bash
+   django-admin startapp newapp # Name the app as per wish
+   ```
+5. **Run the Development Server**
+   Start the Django development server
+   ```bash
+   python manage.py runserver
+   ```
 
+   
 ### Accessing the Application
 
-To run the application, follow the remaining steps mentioned earlier as per your needs. Adjust the paths and project details as necessary based on your specific setup.
+Open your web browser and go to http://127.0.0.1:8000/ to see the printed name on the page.
 
 ## Contributing
 

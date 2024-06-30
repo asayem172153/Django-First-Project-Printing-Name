@@ -14,7 +14,7 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Setting Up
 
-1. **Create a new folder, setup virtual environment, and open VS Code**
+1. **Create a new folder, setup virtual environment**
 
     ```bash
     # Create a new folder
@@ -23,7 +23,10 @@ Follow these steps to get the project up and running on your local machine.
 
     # Create a virtual environment named 'env'
     python -m venv env
+    ```
 
+2. **Open VS code**
+   goto the project folder
     # Activate the virtual environment (Windows)
     .\env\Scripts\activate
 
@@ -34,10 +37,6 @@ Follow these steps to get the project up and running on your local machine.
 2. **Install Django**
 
     ```bash
-    # Clone the project repository and navigate into it
-    git clone https://github.com/asayem172153/Django-First-Project-Printing-Name.git
-    cd Django-First-Project-Printing-Name
-
     # Install Django into your virtual environment
     pip install django
     ```

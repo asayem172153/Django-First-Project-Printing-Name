@@ -28,11 +28,14 @@ Follow these steps to get the project up and running on your local machine.
 2. **Open VS code**  
    goto the project folder
     # Open VS Code in the current directory
-    code .
-    # Activate the virtual environment (Windows)
-    .\env\Scripts\activate
-
+    ```bash
+        code .
     ```
+    # Activate the virtual environment (Windows)
+    ``` bash
+    .\env\Scripts\activate
+    ```
+
 
 2. **Install Django**
 

@@ -27,11 +27,11 @@ Follow these steps to get the project up and running on your local machine.
 
 2. **Open VS code**  
    goto the project folder
-    # Open VS Code in the current directory
+    Open VS Code in the current directory
     ```bash
         code .
     ```
-    # Activate the virtual environment (Windows)
+    Activate the virtual environment (Windows)
     ``` bash
     .\env\Scripts\activate
     ```

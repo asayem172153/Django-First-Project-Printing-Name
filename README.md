@@ -19,5 +19,12 @@ goto your desire folder
 
 ```bash
 mkdir newFolder #to create new folder
-cd newFolder # goto the folder
-python -m venv env # you can use any name instead env
+cd newFolder #goto the folder
+python -m venv env #you can use any name instead env
+
+#### 2. Open VS code (you can use your prefreable editor)
+goto the folder and open cmd type
+
+```bash
+code . #for VScode
+

@@ -15,7 +15,9 @@ Follow these steps to get the project up and running on your local machine.
 ### Setting Up
 
 #### 1. Create virtual environment 
+goto your desire folder
 
 ```bash
-git clone https://github.com/asayem172153/Django-First-Project-Printing-Name.git
-cd Django-First-Project-Printing-Name
+mkdir newFolder #to create new folder
+cd newFolder # goto the folder
+python -m venv env # you can use any name instead env

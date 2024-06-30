@@ -61,7 +61,7 @@ Follow these steps to get the project up and running on your local machine.
    ```
 
    
-### Accessing the Application
+## Accessing the Application
 
 Open your web browser and go to http://127.0.0.1:8000/ to see the printed name on the page.
 

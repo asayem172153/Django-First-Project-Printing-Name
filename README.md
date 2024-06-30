@@ -25,13 +25,13 @@ Follow these steps to get the project up and running on your local machine.
     python -m venv env
     ```
 
-2. **Open VS code**
+2. **Open VS code**  
    goto the project folder
+    # Open VS Code in the current directory
+    code .
     # Activate the virtual environment (Windows)
     .\env\Scripts\activate
 
-    # Open VS Code in the current directory
-    code .
     ```
 
 2. **Install Django**
